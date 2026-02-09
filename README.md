@@ -10,4 +10,4 @@ Built for the BookLeaf Publishing technical assignment.
 - Withdrawals are deducted from the balance immediately upon the "pending" request.
 
 ### Time Spent
-- Approximately 2 hours.
+- Approximately 3-3.5 hours.
